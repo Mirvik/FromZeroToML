@@ -4,17 +4,17 @@
 
 **A sample** is a subset of the population that is collected using a specific sampling method.
 
-**Sampling methods**
+### Sampling methods
 
 ### *Simple Random Sampling*
 This is the simplest and fairest way to collect a sample. Every individual in the population has an <mark>equal chance</mark> of being selected.
-Example: 
+**Example**: 
 + Drawing names from a hat or using a random number generator to pick participants.
 
 ### *Stratified Sampling*
 The population is divided into <mark>distinct</mark> subgroups or strata based on a specific characteristic (such as age, income level), and a random sample is taken from each stratum.
 
-Formula:
+**Formula**:
 $$
 n_h = \frac{N_h}{N} \times n
 $$
@@ -25,13 +25,13 @@ Where:
 - \(N\) = total population size
 - \(n\) = desired sample size
 
-Example:
+**Example**:
 + Interviewing people by picking the same number from each age group
 
 ### *Systematic Sampling*
 Select every k-th individual from a list after choosing a random starting point. This method is simpler than simple random sampling when the population is ordered.
 
-Formula:
+**Formula**:
 
 $$
 k = \frac{N}{n}
@@ -43,7 +43,7 @@ Where:
 - \(n\) = desired sample size
 
 
-Example:
+**Example**:
 + Selecting every 10th customer who visits a store.
 
 ### *Cluster Sampling*
