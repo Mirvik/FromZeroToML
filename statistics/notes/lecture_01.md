@@ -15,8 +15,9 @@ This is the simplest and fairest way to collect a sample. Every individual in th
 The population is divided into <mark>distinct</mark> subgroups or strata based on a specific characteristic (such as age, income level), and a random sample is taken from each stratum.
 
 **Formula**:
+
 $$
-n_{h} = \frac{N_{h}}{N} \times n
+n_h = \frac{N_h}{N} \times n
 $$
 
 Where:
