@@ -6,12 +6,12 @@
 
 **Sampling methods**
 
-*Simple Random Sampling*
+### *Simple Random Sampling*
 This is the simplest and fairest way to collect a sample. Every individual in the population has an <mark>equal chance</mark> of being selected.
 Example: 
 + Drawing names from a hat or using a random number generator to pick participants.
 
-*Stratified Sampling*
+### *Stratified Sampling*
 The population is divided into <mark>distinct</mark> subgroups or strata based on a specific characteristic (such as age, income level), and a random sample is taken from each stratum.
 
 Formula:
@@ -28,7 +28,7 @@ Where:
 Example:
 + Interviewing people by picking the same number from each age group
 
-*Systematic Sampling*
+### *Systematic Sampling*
 Select every k-th individual from a list after choosing a random starting point. This method is simpler than simple random sampling when the population is ordered.
 
 Formula:
@@ -46,7 +46,7 @@ Where:
 Example:
 + Selecting every 10th customer who visits a store.
 
-*Cluster Sampling*
+### *Cluster Sampling*
 
-*Convenience Sampling*
+### *Convenience Sampling*
 
