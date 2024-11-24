@@ -16,7 +16,7 @@ The population is divided into <mark>distinct</mark> subgroups or strata based o
 
 **Formula**:
 $$
-n_h = \frac{N_h}{N} \times{n}
+n_{h} = \frac{N_{h}}{N} \times n
 $$
 
 Where:
