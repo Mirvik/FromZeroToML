@@ -33,9 +33,9 @@ Select every k-th individual from a list after choosing a random starting point.
 
 **Formula**:
 
-$$
+$
 k = \frac{N}{n}
-$$
+$
 
 Where:
 - \(k\) = the sampling interval
