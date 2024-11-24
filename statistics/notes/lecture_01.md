@@ -21,10 +21,10 @@ n_h = \frac{N_h}{N} \times n
 $$
 
 Where:
-- \(n_h\) = the number of samples to be selected from the \(h^{th}\)
-- \(N_h\) = the size of the \(h^{th}\) stratum
-- \(N\) = total population size
-- \(n\) = desired sample size
+- \( n_h \) = the number of samples to be selected from the \( h^{th} \) stratum
+- \( N_h \) = the size of the \( h^{th} \) stratum
+- \( N \) = total population size
+- \( n \) = desired sample size
 
 **Example**:
 + Interviewing people by picking the same number from each age group
