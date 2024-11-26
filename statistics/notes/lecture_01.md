@@ -1,8 +1,21 @@
 # Lecture 01: Sample and population, methods for collecting a sample
 
+## Key concepts
 **Population** is the entire group of individuals, items or data points that are the subject of a statistical study.
 
 **A sample** is a subset of the population that is collected using a specific sampling method.
+
+**Sampling methods** – Techniques used to collect samples from a population.
+
+## Main characteristics of a good sample
+### 1. Representativeness
+**Representativeness** - the degree to which a sample accurately <mark>reflects</mark> the characteristics of the population.
+
+### 2. Adequate size
+**The size of the sample** is important for its <mark>accuracy</mark>. A sample that is too small might not show the full variety of the population, leading to wrong conclusions. A larger sample gives more information, which makes the results stronger and lowers the chance of error. However, the sample size should be practical, considering the time, cost, and resources available.
+
+### 3. Randomness
+**Randomness** - the absence of predictability in sample selection, ensuring fairness.
 
 ## There are two categories of sampling methods:
 
