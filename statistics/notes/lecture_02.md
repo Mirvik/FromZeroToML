@@ -1,22 +1,29 @@
 # Lecture 02: Types of variables
 
-|Types of variables|
-|:-----------------:|
-|Quantitative|Qualittive|
-|Continuous|Discrete|Ordinal|Nominal|
-|Consists of numerical values
-that can be measured but
-not counted.|Consists of numerical
-values that can be
-counted.|Consists of text or
-labels that have a
-logical order.|Consists of text or
-labels that have no
-logical order.|
-|e.g. Weight
-{56.06 Kg, 87 Kg}|e.g. Number of
-disease cases
-{0, 1, 2, 3}|e.g. Beverage size
-{small, medium,
-large}|e.g. Profession
-{chemist, carpenter}|
+<table>
+  <tr>
+    <th colspan="4">Main Header</th>
+  </tr>
+  <tr>
+    <th colspan="2">Subheader 1</th>
+    <th colspan="2">Subheader 2</th>
+  </tr>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th>
+    <th>Header 4</th>
+  </tr>
+  <tr>
+    <td>Row 1, Col 1</td>
+    <td>Row 1, Col 2</td>
+    <td>Row 1, Col 3</td>
+    <td>Row 1, Col 4</td>
+  </tr>
+  <tr>
+    <td>Row 2, Col 1</td>
+    <td>Row 2, Col 2</td>
+    <td>Row 2, Col 3</td>
+    <td>Row 2, Col 4</td>
+  </tr>
+</table>
