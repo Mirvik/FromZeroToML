@@ -1,29 +1,33 @@
-# Lecture 02: Types of variables
+# Lecture 02: Types Of Variables. How To Identify Variable Types in Statistics?
 
 <table>
-  <tr>
-    <th colspan="4">Main Header</th>
-  </tr>
-  <tr>
-    <th colspan="2">Subheader 1</th>
-    <th colspan="2">Subheader 2</th>
-  </tr>
-  <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-    <th>Header 3</th>
-    <th>Header 4</th>
-  </tr>
-  <tr>
-    <td>Row 1, Col 1</td>
-    <td>Row 1, Col 2</td>
-    <td>Row 1, Col 3</td>
-    <td>Row 1, Col 4</td>
-  </tr>
-  <tr>
-    <td>Row 2, Col 1</td>
-    <td>Row 2, Col 2</td>
-    <td>Row 2, Col 3</td>
-    <td>Row 2, Col 4</td>
-  </tr>
+  <thead>
+    <tr>
+      <th colspan="4">Types of variables</th>
+    </tr>
+    <tr>
+      <th colspan="2">Quantitative (a.k.a Numerical)</th>
+      <th colspan="2">Qualitative (a.k.a Categorical)</th>
+    </tr>
+    <tr>sc
+      <th>Continuos</th>
+      <th>Discrete</th>
+      <th>Ordinal</th>
+      <th>Nominal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Consists of numerical values that can be measured but not counted.</td>
+      <td>Consists of numerical values that can be counted.</td>
+      <td>Consists of text or labels that have a logical order.</td>
+      <td>Consists of text or labels that have no logical order.</td>
+    </tr>
+    <tr>
+      <td>e.g. Weight {56.06 Kg, 87 Kg}</td>
+      <td>e.g. Number of disease cases {0, 1, 2, 3}</td>
+      <td>e.g. Beverage size {small, medium, large}</td>
+      <td>e.g. Profession {chemist, carpenter}</td>
+    </tr>
+  </tbody>
 </table>
