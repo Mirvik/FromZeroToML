@@ -9,7 +9,7 @@
       <th colspan="2">Quantitative (a.k.a Numerical)</th>
       <th colspan="2">Qualitative (a.k.a Categorical)</th>
     </tr>
-    <tr>sc
+    <tr>
       <th>Continuos</th>
       <th>Discrete</th>
       <th>Ordinal</th>
