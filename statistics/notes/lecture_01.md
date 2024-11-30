@@ -1,4 +1,4 @@
-# Lecture 01: Sample and population, methods for collecting a sample
+# Lecture 01: Sample And Population, Methods For Collecting a Sample
 
 ## Key concepts
 **Population** is the entire group of individuals, items or data points that are the subject of a statistical study.
