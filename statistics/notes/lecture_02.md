@@ -25,9 +25,9 @@
     </tr>
     <tr>
       <td>e.g. Weight {56.06 Kg, 87 Kg}</td>
-      <td>e.g. Number of disease cases {0, 1, 2, 3}</td>
-      <td>e.g. Beverage size {small, medium, large}</td>
-      <td>e.g. Profession {chemist, carpenter}</td>
+      <td>e.g. Number of children in a family  {0, 1, 2, 3}</td>
+      <td>e.g. Satisfaction levels {Low, Medium, High}</td>
+      <td>e.g. Eye colors {Blue, Green, Brown}</td>
     </tr>
   </tbody>
 </table>
