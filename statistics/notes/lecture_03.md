@@ -36,7 +36,7 @@ There are 3 main types of descriptive statistics:
 
 2. **Measures of central tendency** estimate the center, or average, of a data set. The mean, median and mode are 3 ways of finding the average.
 
-3. **Measures of variability** give you a sense of how spread out the response values are. The range, standard deviation and variance each reflect different aspects of spread.
+3. **Measures of variability** give you a sense of how spread out the values are. The range, standard deviation and variance each reflect different aspects of spread.
 
 
 ## Univariete descriptive statistics
