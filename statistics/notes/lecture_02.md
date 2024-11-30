@@ -10,7 +10,7 @@
       <th colspan="2">Qualitative (a.k.a Categorical)</th>
     </tr>
     <tr>
-      <th>Continuos</th>
+      <th>Continuous</th>
       <th>Discrete</th>
       <th>Ordinal</th>
       <th>Nominal</th>
