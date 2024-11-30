@@ -23,3 +23,6 @@ There are 3 main types of descriptive statistics:
     </tr>
   </tbody>
 </table>
+
+
+![Descriptive statistics](https://github.com/user-attachments/assets/8aea320f-2068-488c-9e10-9d731c3be3d7)
