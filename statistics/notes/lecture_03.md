@@ -9,25 +9,6 @@ There are 3 main types of descriptive statistics:
 - The variability or dispersion concerns how spread out the values are.
 
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="3">Descriptive Statistics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Distribution</td>
-      <td>Measures of central tendency</td>
-      <td>Measures of variability</td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
-
 ![Descriptive statistics](https://github.com/user-attachments/assets/8aea320f-2068-488c-9e10-9d731c3be3d7)
 
 
