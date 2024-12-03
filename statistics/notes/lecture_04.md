@@ -232,6 +232,9 @@ There are two types of cumulative frequency distributions:
 </td></tr></tbody></table>
 
 ## Frequency Distribution Curve
+A frequency distribution curve, also known as a frequency curve, is a graphical representation of a data set’s frequency distribution. It is used to visualize the distribution and frequency of values or observations within a dataset. Let’s understand it’s different types based on the shape of it, as follows:
+
+
 ![image](https://github.com/user-attachments/assets/1e2c5480-ffc9-4a26-a217-4bb81f6097db)
 
 <table><thead><tr><th colspan="2" style="width: 700px;"><p dir="ltr" style="text-align: center;"><b><strong>Frequency Distribution Curve Types</strong></b></p>
