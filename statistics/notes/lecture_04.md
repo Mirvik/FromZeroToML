@@ -172,4 +172,62 @@ Where:
 - Example:
 <table><thead></thead><tbody><tr><th style="width: 116.667px;"><span>Score Range</span></th><td style="width: 116.667px;"><span>0-20</span></td><td style="width: 116.667px;"><span>21-40</span></td><td style="width: 116.667px;"><span>41-60</span></td><td style="width: 116.667px;"><span>61-80</span></td><td style="width: 116.667px;"><span>81-100</span></td></tr><tr><th style="width: 116.667px;"><span>Frequency</span></th><td style="width: 116.667px;"><span>5</span></td><td style="width: 116.667px;"><span>10</span></td><td style="width: 116.667px;"><span>20</span></td><td style="width: 116.667px;"><span>10</span></td><td style="width: 116.667px;"><span>5</span></td></tr></tbody></table>
 
+## Cumulative Frequency Distribution
+Cumulative frequency is defined as the sum of all the frequencies in the previous values or intervals up to the current one.
+There are two types of cumulative frequency distributions:
+$$
+- Less than Type: We sum all the frequencies before the current interval.
+- More than Type: We sum all the frequencies after the current interval.
+$$
+
+- Example:
+<mark>Less than Type</mark>
+
+<table><thead><tr><th style="width: 350px; text-align: center;"><span>Runs scored by Virat Kohli</span></th><th style="width: 350px; text-align: center;"><span>Cumulative Frequency</span></th></tr></thead><tbody><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Less than 10</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>2</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Less than 20</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>4</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Less than 30</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>5</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Less than 40</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>9</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Less than 50</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>13</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Less than 60</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>18</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Less than 70</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>19</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Less than 80</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>22</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Less than 90</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>24</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Less than 100</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>25</span></p>
+</td></tr></tbody></table>
+
+<mark>More than Type</mark>
+<table><thead><tr><th style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Runs scored by Virat Kohli</span></p>
+</th><th style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>Cumulative Frequency</span></p>
+</th></tr></thead><tbody><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>More than 0</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>25</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>More than 10</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>23</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>More than 20</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>21</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>More than 30</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>20</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>More than 40</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>16</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>More than 50</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>12</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>More than 60</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>7</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>More than 70</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>6</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>More than 80</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>3</span></p>
+</td></tr><tr><td style="width: 350px;"><p dir="ltr" style="text-align: center;"><span>More than 90</span></p>
+</td><td style="width: 350px;"><p style="text-align: center;"><span>1</span></p>
+</td></tr></tbody></table>
+
 ## Frequency Distribution Curve
