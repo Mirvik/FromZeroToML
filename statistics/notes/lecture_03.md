@@ -20,7 +20,7 @@ There are 3 main types of descriptive statistics:
 3. **Measures of variability** give you a sense of how spread out the values are. The range, standard deviation and variance each reflect different aspects of spread.
 
 
-## Univariete descriptive statistics
+## Univariate descriptive statistics
 Univariate descriptive statistics focus on only one variable at a time. It’s important to examine data from each variable separately using multiple measures of distribution, central tendency and spread. Programs like SPSS and Excel can be used to easily calculate these.
 
 ## Bivariate descriptive statistics
