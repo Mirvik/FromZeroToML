@@ -92,7 +92,7 @@ This Frequency Distribution is used mostly when the data set is very large.
   <thead>
     <tr>
       <th>Class Interval</th>
-      <tr>Frequency</tr>
+      <th>Frequency</th>
     </tr>
   </thead>
   <tbody>
@@ -128,7 +128,7 @@ This Frequency Distribution is often used when the given dataset is small.
   <thead>
     <tr>
       <th>Value</th>
-      <tr>Frequency</tr>
+      <th>Frequency</th>
     </tr>
   </thead>
   <tbody>
