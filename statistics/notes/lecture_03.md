@@ -13,11 +13,11 @@ There are 3 main types of descriptive statistics:
 
 
 ## Key concepts
-1. **A frequency distribution** describes the number of observations for each possible value of a variable. Frequency distributions are depicted using graphs and frequency tables.
+1. **A frequency distribution** is a way to show how often each value appears in a set of data. Frequency distributions are depicted using graphs and frequency tables.
 
-2. **Measures of central tendency** estimate the center, or average, of a data set. The mean, median and mode are 3 ways of finding the average.
+2. **Measures of central tendency** are ways to find the "center" or typical value in a dataset. The mean, median and mode are 3 ways of finding the average.
 
-3. **Measures of variability** give you a sense of how spread out the values are. The range, standard deviation and variance each reflect different aspects of spread.
+3. **Measures of variability** are methods used to describe how spread out the values in a dataset are. The range, standard deviation and variance each reflect different aspects of spread.
 
 
 ## Univariate descriptive statistics
