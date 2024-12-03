@@ -175,10 +175,10 @@ Where:
 ## Cumulative Frequency Distribution
 Cumulative frequency is defined as the sum of all the frequencies in the previous values or intervals up to the current one.
 There are two types of cumulative frequency distributions:
-$$
-\text{Less than Type: We sum all the frequencies before the current interval.}
-\text{More than Type: We sum all the frequencies after the current interval.}
-$$
+
+> - Less than Type: We sum all the frequencies before the current interval.
+> - More than Type: We sum all the frequencies after the current interval.
+
 
 - Example:
 
